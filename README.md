@@ -12,4 +12,10 @@ def hello(name):
     return strHello;
 
 print(hello("Python!"))
+
 ====================
+
+"C:\Program Files (x86)\Microsoft Visual Studio\Shared\Anaconda3_64\python.exe" E:/FirstPythonProject/StudyPython/HelloWorld.py
+Hello,Python!
+
+Process finished with exit code 0
